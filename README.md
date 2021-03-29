@@ -1,1 +1,1 @@
-![alt text](https://{https://github.com/saikumarpochireddygari/saikumarpochireddygari/blob/main/SpaceMan.png} “add your alt text”)
+<img src=”SpaceMan.png” alt=”alt text” width=”200"/>
