@@ -1,1 +1,1 @@
-![alt text](https://github.com/saikumarpochireddygari/saikumarpochireddygari/blob/main/SpaceMan.png “HeroImage”)
+![HeroImage](https://github.com/saikumarpochireddygari/saikumarpochireddygari/blob/main/SpaceMan.png “HeroImage”)
