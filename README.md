@@ -1,1 +1,1 @@
-<img src=”SpaceMan.png” alt=”alt text” width=”200"/>
+![alt text](https://{github.com/saikumarpochireddygari/saikumarpochireddygari/blob/main/SpaceMan.png} “HeroImage”)
