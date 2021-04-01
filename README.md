@@ -1,29 +1,4 @@
 ![github](/SpaceMan.png)
-
-### Hi there 👋, I'm Sai Kumar
-#### I am Software Engineer
-
-Software Engineer with a demonstrated history of working in the information technology and services industry. Having skills in Python , Data Analysis, Java, and Machine Learning.Information technology professional with a Bachelor's degree focused in Electrical, Electronics and Communications Engineering from SRM University.
-
-Skills: Python / DATA SCIENCE / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on https://datasciencegrad.herokuapp.com 
-- 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on a Data Science project 
-- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/saikumarreddyp/ 
-
-<br>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saikumarpochireddygari)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saikumarreddyp/)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pochireddygari)                  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://datasciencegrad.herokuapp.com)  
-
-<br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saikumarpochireddygari&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saikumarpochireddygari)  
-
-
-
 ### Hello World, I'm Sai Kumar  👋
 
  <img align="right" alt="GIF" src="https://github.com/saikumarpochireddygari/saikumarpochireddygari/blob/main/programming_gif.gif?raw=true" width="500" height="320" />
@@ -31,7 +6,7 @@ Skills: Python / DATA SCIENCE / REACT / JS / HTML / CSS
 
 ## I'm a Software Engineer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on https://datasciencegrad.herokuapp.com 
+- 🔭 I’m currently working on [project-dataScienceGrad] 
 - 🌱 I’m currently learning Data Science 
 - 👯 I’m looking to collaborate on a Data Science project 
 - ⚡ Fun fact: I speak 3 languages ( English, Telugu, Hindhi)
@@ -45,7 +20,7 @@ Skills: Python / DATA SCIENCE / REACT / JS / HTML / CSS
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
 [<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][youtube]
@@ -84,3 +59,4 @@ Skills: Python / DATA SCIENCE / REACT / JS / HTML / CSS
 [instagram]: https://www.instagram.com/sai_kumar_reddyyy/
 [linkedin]: https://www.linkedin.com/in/saikumarreddyp/
 [portfolio]: https://datasciencegrad.herokuapp.com
+[project-dataScienceGrad]: https://datasciencegrad.herokuapp.com
