@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [project-dataScienceGrad] 
 - 🌱 I’m currently learning Data Science 
 - 👯 I’m looking to collaborate on a Data Science project 
-- ⚡ Fun fact: I speak 3 languages ( English, Telugu, Hindhi)
+- ⚡ Fun fact: I speak 3 languages ( English, Telugu, Hindi)
 
 Skills: Python / DATA SCIENCE / REACT / JS / HTML / CSS
 
