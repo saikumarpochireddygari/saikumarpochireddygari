@@ -34,8 +34,17 @@ Skills: Python / DATA SCIENCE / REACT / JS / HTML / CSS
  	<img title="Terminal alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40" />
 </p>
 
-<br />
-<br />
+<p align="center">
+	<strong>Consider giving my work a :star: to show some :heart:</strong>
+</p>
+
+<hr>
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+
 ---
 
 <details>
