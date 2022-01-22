@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/saikumarpochireddygari/saikumarpochireddygari/blob/main/programming_gif.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Software Engineer, Creator, and Mentor!!
+## I'm a Machine Learning Engineer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on [project-dataScienceGrad] 
 - 🌱 I’m currently learning Data Science 
