@@ -61,8 +61,8 @@ Skills: Python / DATA SCIENCE / REACT / JS / HTML / CSS
 
 </details>
 
-[website]: https://datasciencegrad.herokuapp.com
+[website]: https://100gbanalyticswithsai.click/
 [instagram]: https://www.instagram.com/sai_kumar_reddyyy/
 [linkedin]: https://www.linkedin.com/in/saikumarreddyp/
-[portfolio]: https://datasciencegrad.herokuapp.com
-[project-dataScienceGrad]: https://datasciencegrad.herokuapp.com
+[portfolio]: https://100gbanalyticswithsai.click/
+[project-dataScienceGrad]: https://100gbanalyticswithsai.click/
